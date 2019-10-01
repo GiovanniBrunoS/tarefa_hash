@@ -1,4 +1,4 @@
-# criptografia-assimetrica
+# funcoes-hash
 
 ## Dupla
   * Giovanni
